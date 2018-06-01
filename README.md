@@ -1,5 +1,6 @@
 # city-scape
 creates a 3d scene of a city soft rendered in java.
+![image of program](https://raw.githubusercontent.com/thecreamedcorn/city-scape/3d render program.png)
 
 visit https://drive.google.com/file/d/0B89wzKiSWz5nUThEcWNVV0xjSXc/view?usp=sharing to get an executable jar. Simply download then double click on the file.
 
